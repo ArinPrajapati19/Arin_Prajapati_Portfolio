@@ -88,7 +88,7 @@ export default function Portfolio() {
     <section className="min-h-screen flex flex-col justify-center items-center text-center px-6">
     <div className="w-36 h-44 border-2 border-dashed border-gray-500 flex items-center justify-center mb-6 relative overflow-hidden">
     <Image
-    src="/arin_headshot.jpg"
+    src="/arin_new_portfolio_pic.jpg"
     alt="Arin Selfie"
     fill
     style={{ objectFit: "cover" }}
